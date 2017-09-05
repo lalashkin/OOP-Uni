@@ -1,2 +1,4 @@
 # OOP-Uni
-My university projects.
+# Shinkevich George
+ИСиТ 2-1
+
