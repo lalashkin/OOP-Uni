@@ -1,0 +1,7 @@
+E:\Work\C#\lab33\lab33\bin\Debug\lab33.exe.config
+E:\Work\C#\lab33\lab33\bin\Debug\lab33.exe
+E:\Work\C#\lab33\lab33\bin\Debug\lab33.pdb
+E:\Work\C#\lab33\lab33\obj\Debug\lab33.csprojResolveAssemblyReference.cache
+E:\Work\C#\lab33\lab33\obj\Debug\lab33.csproj.CoreCompileInputs.cache
+E:\Work\C#\lab33\lab33\obj\Debug\lab33.exe
+E:\Work\C#\lab33\lab33\obj\Debug\lab33.pdb
