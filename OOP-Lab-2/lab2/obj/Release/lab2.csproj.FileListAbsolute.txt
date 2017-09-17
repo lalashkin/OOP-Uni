@@ -1,0 +1,6 @@
+D:\work\study\OOP\lab2\lab2\bin\Release\lab2.exe.config
+D:\work\study\OOP\lab2\lab2\bin\Release\lab2.exe
+D:\work\study\OOP\lab2\lab2\bin\Release\lab2.pdb
+D:\work\study\OOP\lab2\lab2\obj\Release\lab2.csproj.CoreCompileInputs.cache
+D:\work\study\OOP\lab2\lab2\obj\Release\lab2.exe
+D:\work\study\OOP\lab2\lab2\obj\Release\lab2.pdb
